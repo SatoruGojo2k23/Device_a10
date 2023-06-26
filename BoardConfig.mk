@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 Android Open Source Project
+# Copyright (C) 2023 Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -37,8 +37,6 @@ TARGET_2ND_CPU_ABI := armeabi-v7a
 TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := generic
 TARGET_2ND_CPU_VARIANT_RUNTIME := cortex-a75
-
-TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Audio
 USE_XML_AUDIO_POLICY_CONF := 1
